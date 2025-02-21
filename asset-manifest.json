@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/praveenjadhav1510/save-watched/static/css/main.d7f710e5.css",
+    "main.js": "/praveenjadhav1510/save-watched/static/js/main.ebdf6c40.js",
+    "static/js/453.e8aa6cd4.chunk.js": "/praveenjadhav1510/save-watched/static/js/453.e8aa6cd4.chunk.js",
+    "index.html": "/praveenjadhav1510/save-watched/index.html",
+    "main.d7f710e5.css.map": "/praveenjadhav1510/save-watched/static/css/main.d7f710e5.css.map",
+    "main.ebdf6c40.js.map": "/praveenjadhav1510/save-watched/static/js/main.ebdf6c40.js.map",
+    "453.e8aa6cd4.chunk.js.map": "/praveenjadhav1510/save-watched/static/js/453.e8aa6cd4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7f710e5.css",
+    "static/js/main.ebdf6c40.js"
+  ]
+}
